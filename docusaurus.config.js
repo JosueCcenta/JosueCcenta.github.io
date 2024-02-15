@@ -14,7 +14,7 @@ const config = {
   url: 'https://documentacion.chat.buho.la',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/documentacion/',
+  baseUrl: '/starwars/',
 
   // GitHub pages deployment config.
   organizationName: 'chatbuho',
@@ -63,7 +63,7 @@ const config = {
         title: '',
         logo: {
           alt: 'Documentación de Chat Buho',
-          src: 'https://buho.la/images/chat/chat-buho.svg',
+          src: 'https://cdn.pixabay.com/photo/2016/05/12/00/48/star-wars-1386790_1280.png',
         },
         items: [
           // {
